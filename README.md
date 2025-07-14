@@ -11,6 +11,9 @@ Email Me 👉 ✉️ **rahulponde214@gmail.com** For Collaboration/Project or An
 - 📫 **How to reach me:** rahulponde214@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Rahul214-Coder)
+  
   <!-- Snake Game Repo View -->
 
 <div align="center">
