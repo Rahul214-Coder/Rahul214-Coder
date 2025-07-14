@@ -1,9 +1,6 @@
 # 💫 Hi 👋, I'm Rahul214-Coder
 **A passionate Developer || Software Engineer **
 
-Profile Hits 1:   [![HitCount](https://hits.dwyl.com/Rahul214-Coder/Rahul214-Coder.svg?style=flat-square)](http://hits.dwyl.com/Rahul214-Coder/Rahul214-Coder)
-Profile Hits 2:   [![HitCount](https://hits.dwyl.com/Rahul214-Coder/Rahul214-Coder.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Rahul214-Coder/Rahul214-Coder)
-
 Email Me 👉 ✉️ **rahulponde214@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** MERN Stack Projects
